@@ -4,7 +4,8 @@
   "description": "An example to swap tokens on Solana using the Raydium SDK.",
   "main": "index.js",
   "scripts": {
-    "swap": "ts-node ./src/index.ts"
+    "swap": "ts-node ./src/index.ts",
+    "poolInfo": "ts-node ./src/poolInfo.ts"
   },
   "author": "DZ",
   "license": "MIT",
